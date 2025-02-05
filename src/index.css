@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@utility container {
+    margin-inline: auto;
+  }
+
+  @theme {
+    --color-lavander-black: #27272A;
+    --color-grey-dark: #696969;
+    --color-grey-light: #E5E7EB;
+    --color-lavender: #7E3AF2;
+    --color-lavender-red: #E02424;
+    --color-white: #FCFBFA;
+    --font-monserat: "Montserrat";
+  }
